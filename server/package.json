@@ -1,0 +1,23 @@
+{
+  "name": "server-contactos",
+  "version": "1.0.0",
+  "description": "API RESTful para gestión de contactos - Flutter App",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "api",
+    "rest",
+    "contactos",
+    "flutter"
+  ],
+  "author": "FelipeDev",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
+
